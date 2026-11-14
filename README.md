@@ -51,7 +51,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Tank Game Screenshot](images/screenshot.png)]
+![Tank Game Screenshot](images/screenshot.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
