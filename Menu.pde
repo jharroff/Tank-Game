@@ -4,7 +4,7 @@ Menu createMainMenu() {
     color(0, 0, 0)/*BG Color*/,
     color(255, 255, 255)/*Text Color*/,
     color(255, 255, 0)/*Highligh Color*/,
-    30.0/*Font Size*/, "Welcome to Florp!",
+    30.0/*Font Size*/, "Welcome to Tank Game!",
     new String[] {"Competitive local", "Competitive network (Host)", "Competitive network (Join)"});
 }
 

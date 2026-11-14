@@ -1,6 +1,6 @@
 /*********************************
  
- Florp: Queue of Destruction
+ Tank Game
  V1
  David Goldfuss and Joshua Harroff
  
